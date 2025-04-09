@@ -4,3 +4,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 } */
+
+#card-1 {
+  background: url(./assets/card-image-1.png) lightgray 50% / cover no-repeat;
+}
