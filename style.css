@@ -14,12 +14,21 @@
   font-family: "Playfair Display", serif;
 }
 
+/* colors and background */
+.bg-custom-dark-brown {
+  background-color: #423228 !important; 
+}
+
 #card-1 {
   background: url(./assets/card-image-1.png) lightgray 50% / cover no-repeat;
 }
 
 /* margins between sections */
-#decorationSection {
+#homeDecorationSection{
+  margin-top: 15rem;
+}
+
+#tableDecorationSection {
   margin-top: 15rem;
 }
 
