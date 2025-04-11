@@ -8,3 +8,15 @@
 #card-1 {
   background: url(./assets/card-image-1.png) lightgray 50% / cover no-repeat;
 }
+
+/* margins between sections */
+
+#footerSection {
+  margin-top: 15rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+#footerSection2 {
+  margin-top: 8rem;
+}
