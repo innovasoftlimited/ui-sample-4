@@ -10,21 +10,23 @@
   font-family: "Inter", sans-serif;
 }
 
-.font-playfair-display{
+.font-playfair-display {
   font-family: "Playfair Display", serif;
 }
-
 
 #card-1 {
   background: url(./assets/card-image-1.png) lightgray 50% / cover no-repeat;
 }
 
 /* margins between sections */
-#styleSection{
+#decorationSection {
+  margin-top: 15rem;
+}
+
+#styleSection {
   margin-top: 15rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-
 }
 
 #arrivalSection {
