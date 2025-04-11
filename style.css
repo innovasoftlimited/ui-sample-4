@@ -5,11 +5,24 @@
   background-size: cover;
 } */
 
+/* font styles */
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
+.font-playfair-display{
+  font-family: "Playfair Display", serif;
+}
+
+
 #card-1 {
   background: url(./assets/card-image-1.png) lightgray 50% / cover no-repeat;
 }
 
 /* margins between sections */
+#arrivalSection {
+  margin-top: 15rem;
+}
 
 #footerSection {
   margin-top: 15rem;
