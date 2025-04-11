@@ -19,11 +19,20 @@
   background-color: #423228 !important; 
 }
 
-#card-1 {
-  background: url(./assets/card-image-1.png) lightgray 50% / cover no-repeat;
+.bg-custom-light-gray {
+  background-color: #F6F6F6 !important;
 }
 
 /* margins between sections */
+#productCardsSection{
+  margin-top: 15rem;
+}
+
+#collectionSection{
+  margin-top: 15rem;
+}
+
+
 #homeDecorationSection{
   margin-top: 15rem;
 }
