@@ -1,9 +1,13 @@
-/* #homeSection {
+#homeSection {
   background-image: url(./assets/banner-image.png);
-  background-position: fill;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-} */
+
+  height: 100%;
+  padding-top: 15rem;
+  padding-bottom: 20rem;
+}
 
 /* font styles */
 .font-inter {
