@@ -20,8 +20,15 @@
 }
 
 /* margins between sections */
-#arrivalSection {
+#styleSection{
   margin-top: 15rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+
+}
+
+#arrivalSection {
+  margin-top: 10rem;
 }
 
 #footerSection {
